@@ -1,0 +1,23 @@
+# VS Code
+.vscode/
+
+# Arduino
+*.elf
+*.hex
+*.bin
+
+# Build files
+build/
+dist/
+
+# Node
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
