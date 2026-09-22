@@ -506,7 +506,7 @@ A student project exploring:
 ## 🔗 Project Links
 
 🎥 **Demo Video:** [YouTube link](https://youtu.be/za74z2f1W80?si=JMJL7hU8lJlyIY5J)
-
+full file: https://drive.google.com/file/d/1pfo5kjQIV06GaW_y7p5msTL2fmIGr-zN/view?usp=sharing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # GONEXA
